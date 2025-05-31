@@ -4,7 +4,7 @@
         <section class="bg-gradient-to-r from-green-600 to-green-800 text-white section-padding">
             <div class="container-max">
                 <div class="text-center">
-                    <h1 class="text-4xl md:text-5xl font-bold mb-6">About WithinReachTechnology</h1>
+                    <h1 class="text-4xl md:text-5xl font-bold mb-6">About us</h1>
                     <p class="text-xl max-w-3xl mx-auto">
                         Dedicated to providing innovative, knowledge-based services through high-quality partnerships
                     </p>

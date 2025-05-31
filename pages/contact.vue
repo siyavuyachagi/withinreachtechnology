@@ -45,7 +45,7 @@
                                 <div>
                                     <h3 class="font-semibold text-gray-800 mb-1">Phone Numbers</h3>
                                     <p class="text-gray-600">
-                                        Main: +27 11 123 4567<br>
+                                        Main: +27 62 109 0221<br>
                                         Mobile: +27 82 345 6789<br>
                                         Fax: +27 11 123 4568
                                     </p>
@@ -60,7 +60,7 @@
                                 <div>
                                     <h3 class="font-semibold text-gray-800 mb-1">Email Addresses</h3>
                                     <p class="text-gray-600">
-                                        General Inquiries: info@withinreachtech.co.za<br>
+                                        General Inquiries: withinreachtech@gmail.com<br>
                                         Business Development: business@withinreachtech.co.za<br>
                                         Support: support@withinreachtech.co.za
                                     </p>
@@ -195,7 +195,7 @@
                     <div class="text-center">
                         <div class="text-4xl mb-4">🗺️</div>
                         <p class="text-gray-600">Interactive Map</p>
-                        <p class="text-sm text-gray-500">123 Business District, Sandton, Johannesburg</p>
+                        <p class="text-sm text-gray-500">44 Bentley Avenue, Willow Park, East London, South Africa</p>
                     </div>
                 </div>
 
