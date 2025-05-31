@@ -1,6 +1,6 @@
 <template>
     <header class="bg-white shadow-lg sticky top-0 z-50">
-        <nav class="container-max">
+        <nav class="container-max p-4">
             <div class="flex justify-between items-center py-4">
                 <NuxtLink to="/" class="flex items-center space-x-2">
                     <div class="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center">
