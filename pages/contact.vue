@@ -29,9 +29,9 @@
                                 <div>
                                     <h3 class="font-semibold text-gray-800 mb-1">Office Address</h3>
                                     <p class="text-gray-600">
-                                        123 Business District<br>
-                                        Sandton, Johannesburg<br>
-                                        Gauteng, 2196<br>
+                                        44 Bentley Avenue,<br> 
+                                        Willow Park,<br> 
+                                        East London,<br> 
                                         South Africa
                                     </p>
                                 </div>
